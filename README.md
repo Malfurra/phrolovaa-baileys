@@ -1,7 +1,7 @@
 # <div align='center'>Phrolova Baileys - WhatsApp Web API</div>
 
 <p align="center">
-  <img src="https://i.top4top.io/p_3762a52wf1.jpg" alt="Phrolova Baileys" />
+  <img src="https://f.top4top.io/p_3762354171.jpg" alt="Phrolova Baileys" />
 </p>
 
 <div align='center'>
@@ -27,7 +27,7 @@ Production-ready features for WhatsApp automation:
 - Poll and event messages
 - Auto-reconnection with exponential backoff
 - Session management and persistence
-- Custom pairing code support (PHRO-LOVA)
+- Custom pairing code support (PHROLOVA)
 - Multi-device WhatsApp support
 
 ## Installation
