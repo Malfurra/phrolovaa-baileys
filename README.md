@@ -1,7 +1,7 @@
-# <div align='center'>Noya Baileys - WhatsApp Web API</div>
+# <div align='center'>Phrolova Baileys - WhatsApp Web API</div>
 
 <p align="center">
-  <img src="https://c.top4top.io/p_3761hanoj1.jpg" alt="Noya Baileys" />
+  <img src="68747470733a2f2f632e746f7034746f702e696f2f705f333736326d66327969312e6a7067'" alt="Phrolova Baileys" />
 </p>
 
 <div align='center'>
@@ -27,19 +27,19 @@ Production-ready features for WhatsApp automation:
 - Poll and event messages
 - Auto-reconnection with exponential backoff
 - Session management and persistence
-- Custom pairing code support (NOYACOMP)
+- Custom pairing code support (PHRO-LOVA)
 - Multi-device WhatsApp support
 
 ## Installation
 
 ```bash
-npm install @noya4u_27/baileys
+npm install @phrolovaa/baileys
 ```
 
 ## Quick Start
 
 ```typescript
-import makeWASocket from '@noya4u_27/baileys';
+import makeWASocket from '@phrolovaa/baileys';
 
 const sock = makeWASocket();
 
@@ -78,9 +78,9 @@ This library is an unofficial implementation. Use responsibly and in compliance 
 
 For support and inquiries, reach out through:
 
-- Telegram: https://t.me/noya4u_27
+- Telegram: https://t.me/phrolovaa
 - GitHub: https://github.com/malfurra
-- Other socials: malfurra
+- Other socials: @malfurra
 
 ## License
 
