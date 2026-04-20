@@ -1,9 +1,8 @@
 # <div align='center'>Phrolova Baileys - WhatsApp Web API</div>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtzdXZleDBrNzA1eGNyOGphNXhrZTgzZDRyNDVwMzhhbnd2MmwxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoEcSO9UhfuFi92Qvh/giphy.gif" alt="Phrolova Baileys" />
+  <img src="https://media.giphy.com/media/BoEcSO9UhfuFi92Qvh/giphy.gif" alt="Phrolova Baileys" width="800" />
 </p>
-
 <div align='center'>
 
 A powerful TypeScript/JavaScript WhatsApp Web API library for building automation solutions and integrations with WhatsApp. Built on WebSocket technology without requiring a browser instance.
