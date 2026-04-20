@@ -1,7 +1,7 @@
 # <div align='center'>Phrolova Baileys - WhatsApp Web API</div>
 
 <p align="center">
-  <img src="https://f.top4top.io/p_3762354171.jpg" alt="Phrolova Baileys" />
+  <img src="https://i.top4top.io/p_3762xzbqr1.jpg" alt="Phrolova Baileys" />
 </p>
 
 <div align='center'>
