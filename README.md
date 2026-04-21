@@ -258,6 +258,6 @@ Released under the **MIT License** — free to use, modify, and distribute. See 
 
 · · ────────────── · ·
 
-*Last updated: April 20, 2026 — newsletter update*
+*Last updated: April 21, 2026*
 
 </div>
