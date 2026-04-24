@@ -4,7 +4,7 @@
  <img width="490" height="276" alt="Image" src="https://github.com/user-attachments/assets/e9d62de4-e4cb-4ca0-b661-9b00bc028775" />
 
 
-> *WhatsApp Web API — No Browser, No Hassle*
+> *Forked from @itsliaaa/baileys*
 
 [![npm version](https://img.shields.io/npm/v/@phrolovaa/baileys?color=25D366&label=npm&logo=npm&logoColor=white)](https://www.npmjs.com/package/@phrolovaa/baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org)
@@ -260,4 +260,4 @@ Released under the **MIT License** — free to use, modify, and distribute. See 
 
 *Last updated: April 21, 2026*
 
-</div>
+</div># phrolovaa-baileys
