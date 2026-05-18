@@ -1,7 +1,7 @@
 <div align="center">
 
   # ✦ Phrolova Baileys ✦
- <img width="490" height="276" alt="Image" src="https://github.com/user-attachments/assets/e9d62de4-e4cb-4ca0-b661-9b00bc028775" />
+ <img width="490" height="276" alt="Image" src="https://github.com/user-attachments/assets/e9d62de4-e4cb-4ca0-b661-9b00bc02875" />
 
 
 > *Forked from @itsliaaa/baileys*
